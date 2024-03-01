@@ -1,6 +1,7 @@
 import './App.css'
-import CustomAnchor from './components/CustomAnchor'
-import ParagraphGenerator from './components/ParagraphGenerator'
+import GithubCard from './components/GithubCard'
+// import CustomAnchor from './components/CustomAnchor'
+// import ParagraphGenerator from './components/ParagraphGenerator'
 // import ProfileComponent from './components/ProfileComponent'
 // import BackgroundChanger from './components/BackgroundChange'
 function App() {
@@ -10,7 +11,8 @@ function App() {
     {/* <ProfileComponent /> */}
     {/* <BackgroundChanger />  */}
     {/* <CustomAnchor /> */}
-    <ParagraphGenerator />
+    {/* <ParagraphGenerator /> */}
+    <GithubCard />
     </>
   )
 }
